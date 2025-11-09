@@ -1,0 +1,12 @@
+
+server/node_modules
+web/node_modules
+
+web/dist
+
+server/uploads
+
+tools/exe_inspector
+
+
+.DS_Store
